@@ -45,4 +45,6 @@ Para mas información consultar:
 
 https://www.php.net/manual/es/ini.core.php
 https://www.php.net/manual/es/info.configuration.php
- 
+
+## Gestionar php FPM
+https://github.com/ecr007/Gestionar-PHP-FPM/blob/master/README.md
